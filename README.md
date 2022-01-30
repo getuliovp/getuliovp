@@ -13,3 +13,5 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 </div><br/>
+
+![Snake animation](https://github.com/getuliovp/getuliovp/blob/output/github-contribution-grid-snake.svg)
