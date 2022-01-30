@@ -4,7 +4,6 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getuliovp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliovp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Tecnologias:
@@ -15,4 +14,8 @@
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 </div><br/>
 
+---
+
 ![Snake animation](https://github.com/getuliovp/getuliovp/blob/output/github-contribution-grid-snake.svg)
+
+---
